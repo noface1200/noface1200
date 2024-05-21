@@ -16,3 +16,5 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cs,java">
 </p>
+
+see more at feds.lol/noface or my discord server https://discord.gg/QGRgRNzf66
