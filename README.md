@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center"><h1><b>Hey, I'm Noface</b></h1></div>
 
-<!--
-**nfwebapi/nfwebapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">I mostly code during every second of every hour everywhere, I love learning new skills, and surpassing myself.</div>
 
-Here are some ideas to get you started:
+<div align="center"><h3>Languages :</h3></div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,lua,md,powershell,py,cpp,bash">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"><h3>Tools :</h3></div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=discord,electron,git,github,gitlab,gradle,blender,androidstudio,arduino,atom,aws,debian,dotnet,eclipse,gamemakerstudio,gcp,gmail,ai,instagram,kali,linux,nodejs,npm,pycharm,pytorch,raspberrypi,react,redhat,regex,robloxstudio,sqlite,stackoverflow,sublime,selenium,svg,ubuntu,unity,unreal,vercel,vim,visualstudio">
+</p>
+
+<div align="center"><h3>Currently learning :</h3></div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cs,java">
+</p>
