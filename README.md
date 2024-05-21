@@ -17,4 +17,4 @@
     <img src="https://skillicons.dev/icons?i=c,cs,java">
 </p>
 
-see more at feds.lol/noface or my discord server https://discord.gg/QGRgRNzf66
+<div align="center">See more at feds.lol/noface or my Discord server https://discord.gg/QGRgRNzf66</div>
