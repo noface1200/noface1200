@@ -19,9 +19,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nfwebapi&theme=dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=nfwebapi&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nfwebapi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nfwebapi&theme=dark&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">See more at feds.lol/noface or my Discord server https://discord.gg/QGRgRNzf66</div>
