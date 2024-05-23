@@ -2,6 +2,10 @@
 
 <div align="center">I mostly code during every second of every hour everywhere, I love learning new skills, and surpassing myself.</div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nfwebapi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
 <div align="center"><h3>Languages :</h3></div>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,lua,md,powershell,py,cpp,bash">
