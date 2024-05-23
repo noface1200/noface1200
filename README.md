@@ -1,7 +1,4 @@
 <div align="center"><h1><b>Hey, I'm Noface</b></h1></div>
-
-<div align="center">I mostly code during every second of every hour everywhere, I love learning new skills, and surpassing myself.</div>
-
 <img src="https://raw.githubusercontent.com/lucasodevdottk/lucasodevdottk/output/snake.svg" alt="Snake animation" />
 
 <div align="center"><h3>Languages :</h3></div>
