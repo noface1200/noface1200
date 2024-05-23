@@ -1,5 +1,4 @@
 <div align="center"><h2><b>Hey, I'm Noface</b></h2></div>
-<img src="https://raw.githubusercontent.com/lucasodevdottk/lucasodevdottk/output/snake.svg" alt="Snake animation" />
 
 <div align="center"><h3>Languages :</h3></div>
 <p align="center">
@@ -15,6 +14,8 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cs,java">
 </p>
+
+<img src="https://raw.githubusercontent.com/lucasodevdottk/lucasodevdottk/output/snake.svg" alt="Snake animation" />
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nfwebapi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
