@@ -1,4 +1,4 @@
-<div align="center"><h1><b>Hey, I'm Noface</b></h1></div>
+<div align="center"><h2><b>Hey, I'm Noface</b></h2></div>
 <img src="https://raw.githubusercontent.com/lucasodevdottk/lucasodevdottk/output/snake.svg" alt="Snake animation" />
 
 <div align="center"><h3>Languages :</h3></div>
