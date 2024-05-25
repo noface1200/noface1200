@@ -18,8 +18,8 @@
 <img src="https://raw.githubusercontent.com/lucasodevdottk/lucasodevdottk/output/snake.svg" alt="Snake animation" />
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nfwebapi&theme=dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nfwebapi&theme=dark&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=noface1200&theme=dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noface1200&theme=dark&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">See more at feds.lol/noface or my Discord server https://discord.gg/QGRgRNzf66</div>
