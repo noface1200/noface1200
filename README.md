@@ -24,4 +24,4 @@
 
 <div align="center">See more at feds.lol/noface or my Discord server https://discord.gg/QGRgRNzf66</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cujanovic&theme=dracula)](https://discord.gg/dxar3FGhdG)
+[![trophy](https://github-profile-trophy.vercel.app/?username=noface1200&theme=dracula)](https://discord.gg/dxar3FGhdG)
