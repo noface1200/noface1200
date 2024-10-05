@@ -22,6 +22,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noface1200&theme=dark&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
-<div align="center">See more at feds.lol/noface or my Discord server https://discord.gg/QGRgRNzf66</div>
+<div align="center">See more at my Discord server https://discord.gg/ehCrZUdbRr</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=noface1200&theme=dracula)](https://discord.gg/dxar3FGhdG)
