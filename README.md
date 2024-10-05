@@ -17,12 +17,11 @@
 
 <img src="https://raw.githubusercontent.com/lucasodevdottk/lucasodevdottk/output/snake.svg" alt="Snake animation" />
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noface1200&theme=dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noface1200&theme=dark&hide_border=false" height="150" alt="streak graph"  />
-</div>
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=noface1200&theme=dracula)](https://discord.gg/dxar3FGhdG)
 
 <div align="center">See more at my Discord server https://discord.gg/ehCrZUdbRr</div>
+</div>
