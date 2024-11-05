@@ -1,7 +1,6 @@
 <h2 align="center">
-    <b>Hey, I'm </b>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Noface" alt="Typing SVG" style="display:inline; vertical-align:middle;">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Hey+Im+Noface" alt="Typing SVG" style="display:inline; vertical-align:middle;">
     </a>
 </h2>
 
