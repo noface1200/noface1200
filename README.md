@@ -1,4 +1,4 @@
-<div align="center"><h2><b>Hey, I'm Noface</b></h2></div>
+<div align="center"><h2><b>Hey, I'm [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Noface)](https://git.io/typing-svg)</b></h2></div>
 
 <div align="center"><h3>Languages :</h3></div>
 <p align="center">
