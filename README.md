@@ -1,10 +1,10 @@
 <h2 align="center">
-    <b>Hey, I'm 
+    <b>Hey, I'm </b>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Noface" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Noface" alt="Typing SVG" style="display:inline; vertical-align:middle;">
     </a>
-    </b>
 </h2>
+
 
 
 <div align="center"><h3>Languages :</h3></div>
