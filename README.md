@@ -1,7 +1,11 @@
-<div align="center"><h2>
+<h2 align="center">
     <b>Hey, I'm 
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Noface)](https://git.io/typing-svg)</b>
-</h2></div>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Noface" alt="Typing SVG">
+    </a>
+    </b>
+</h2>
+
 
 <div align="center"><h3>Languages :</h3></div>
 <p align="center">
