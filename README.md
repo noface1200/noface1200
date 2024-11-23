@@ -24,5 +24,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=noface1200&theme=dracula)](https://discord.gg/dxar3FGhdG)
 
-<div align="center">See more at my Discord server https://discord.gg/ehCrZUdbRr</div>
 </div>
