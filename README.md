@@ -2,7 +2,7 @@
 
 <div align="center"><h3>Languages :</h3></div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,lua,md,powershell,py,cpp,bash">
+    <img src="https://skillicons.dev/icons?i=js,html,css,lua,md,powershell,py,cs,bash">
 </p>
 
 <div align="center"><h3>Tools :</h3></div>
@@ -12,7 +12,7 @@
 
 <div align="center"><h3>Currently learning :</h3></div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,java">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java">
 </p>
 
 <div align="center">
