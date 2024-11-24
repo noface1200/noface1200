@@ -7,7 +7,7 @@
 
 <div align="center"><h3>Tools :</h3></div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=discord,electron,git,github,gitlab,gradle,blender,androidstudio,arduino,atom,aws,debian,dotnet,eclipse,gamemakerstudio,gcp,gmail,ai,instagram,kali,linux,nodejs,npm,pycharm,pytorch,raspberrypi,react,redhat,regex,robloxstudio,sqlite,stackoverflow,sublime,selenium,svg,ubuntu,unity,unreal,vercel,vim,visualstudio">
+    <img src="https://skillicons.dev/icons?i=discord,electron,git,github,gradle,arduino,atom,aws,debian,dotnet,eclipse,gcp,gmail,ai,kali,linux,nodejs,npm,pycharm,raspberrypi,regex,sqlite,sublime,selenium,svg,ubuntu,unity,unreal,vim,visualstudio">
 </p>
 
 <div align="center"><h3>Currently learning :</h3></div>
