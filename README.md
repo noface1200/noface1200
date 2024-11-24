@@ -17,7 +17,7 @@
 
 <div align="center">
    
-  <img src="https://raw.githubusercontent.com/lucasodevdottk/lucasodevdottk/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/noface1200/noface1200/e4142b3c2705bc02747d66c52860c5c74440a0a9/snake.svg" alt="Snake animation" />
     
   <img src="https://github-readme-stats.vercel.app/api?username=noface1200&theme=dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noface1200&theme=dark&hide_border=false" height="150" alt="streak graph"  />
