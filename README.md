@@ -25,9 +25,7 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noface1200&show_icons=true&locale=en&layout=compact" alt="noface1200" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p></p>
