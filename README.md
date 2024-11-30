@@ -22,9 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noface1200&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/noface1200/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noface1200&layout=pie" />
-</a>
 <a href="https://github.com/noface1200/FlaskShell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noface1200&repo=FlaskShell" />
 </a>
