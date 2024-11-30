@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=noface1200" alt="noface1200" />
+    <img src="https://github-profile-trophy.vercel.app/?username=noface1200&theme=matrix" alt="noface1200" />
   </a>
 </p>
 
