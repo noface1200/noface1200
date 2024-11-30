@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noface1200&label=Profile%20views&color=0e75b6&style=flat" alt="noface1200" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noface1200" alt="noface1200" /></a> </p>
-
 - 🔭 I’m currently working on [Cluipy](https://github.com/noface1200/Command-Line-UI-Tool)
 
 - 🌱 I’m currently learning **Networking, C**
@@ -17,6 +15,8 @@
 - 💬 Ask me about **Modding, Injection, Cryptography**
 
 - 📫 How to reach me **noface@ccmail.uk**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noface1200" alt="noface1200" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
