@@ -14,18 +14,18 @@
 
 - 💬 Ask me about **Modding, Injection, Cryptography**
 
-<h3>Connect with me:</h3>
-<p>- 📫 1noface-inbox@proton.me
-
-</p>
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=noface1200&theme=matrix" alt="noface1200" />
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noface&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>Connect with me:</h3>
+<p>- 📫 1noface-inbox@proton.me
+
+</p>
 
 
 <p></p>
