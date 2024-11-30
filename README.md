@@ -24,9 +24,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=noface1200" alt="noface1200" />
   </a>
 </p>
-<p style="display: flex; align-items: flex-start;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noface1200&show_icons=true&locale=en&layout=compact" alt="noface1200" />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noface1200&show_icons=true&locale=en&layout=compact" alt="noface1200" />
 </p>
+
 
 <p></p>
 <h3>Languages and Tools:</h3>
