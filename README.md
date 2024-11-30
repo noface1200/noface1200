@@ -14,11 +14,10 @@
 
 - 💬 Ask me about **Modding, Injection, Cryptography**
 
-- 📫 How to reach me **noface@ccmail.uk**
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noface1200" alt="noface1200" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+- 📫 1noface-inbox@proton.me
 <p align="left">
 </p>
 
@@ -28,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noface1200&show_icons=true&locale=en&layout=compact" alt="noface1200" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noface1200&show_icons=true&locale=en" alt="noface1200" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noface1200&" alt="noface1200" /></p>
