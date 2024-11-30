@@ -25,11 +25,12 @@
 <a href="https://github.com/noface1200/FlaskShell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noface1200&repo=FlaskShell" />
 </a>
+<a href="https://github.com/noface1200/Command-Line-UI-Tool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noface1200&repo=Command-Line-UI-Tool" />
+</a>
 
-<h3>Connect with me:</h3>
-<p>- 📫 1noface-inbox@proton.me
-
-</p>
+<h3>Contact me:</h3>
+<p>📫 1noface-inbox@proton.me</p>
 
 
 <p></p>
