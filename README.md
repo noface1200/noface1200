@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on [Optimiser](https://github.com/noface1200/Windows-11-Optimizer)
 
-- 🤝 I’m looking for help with [FlaskShell](https://github.com/noface1200/FlaskShell)
+- 🤝 I’m looking for help with secret project (contact me over email for more details)
 
 - 👨‍💻 All of my projects are available at [https://github.com/noface1200?tab=repositories](https://github.com/noface1200?tab=repositories)
 
-- 💬 Ask me about **Modding, Injection, Cryptography**
+- 💬 Ask me about **Modding, DLL-Injection, Cryptography, Python**
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -28,7 +28,7 @@
 </a>
 
 <h3>Contact me:</h3>
-<p>📫 1noface-inbox@proton.me</p>
+<p>📫 proton-inbox9897@protonmail.com</p>
 <p>📜 https://pastebin.com/u/noface1200</p>
 
 <p></p>
