@@ -29,7 +29,7 @@
 
 <h3>Contact me:</h3>
 <p>📫 1noface-inbox@proton.me</p>
-
+<p>📜 https://pastebin.com/u/noface1200</p>
 
 <p></p>
 <h3>Languages and Tools:</h3>
