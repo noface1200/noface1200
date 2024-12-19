@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on [Optimiser](https://github.com/noface1200/Windows-11-Optimizer)
 
-- 🤝 I’m looking for help with secret project (contact me over email for more details)
-
 - 👨‍💻 All of my projects are available at [https://github.com/noface1200?tab=repositories](https://github.com/noface1200?tab=repositories)
 
 - 💬 Ask me about **Modding, DLL-Injection, Cryptography, Python**
