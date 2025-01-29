@@ -18,13 +18,6 @@
   </a>
 </p>
 
-<a href="https://github.com/noface1200/FlaskShell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noface1200&repo=FlaskShell" />
-</a>
-<a href="https://github.com/noface1200/Command-Line-UI-Tool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noface1200&repo=Command-Line-UI-Tool" />
-</a>
-
 <h3>Contact me:</h3>
 <p>📫 proton-inbox9897@protonmail.com</p>
 <p>📜 https://pastebin.com/u/noface1200</p>
