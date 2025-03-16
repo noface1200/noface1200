@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noface1200&label=Profile%20views&color=0e75b6&style=flat" alt="noface1200" /> </p>
 
-- 🔭 I’m currently working on [Cluipy](https://github.com/noface1200/Command-Line-UI-Tool)
+- 🔭 I’m currently working on [CLUI]
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
