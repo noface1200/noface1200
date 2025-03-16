@@ -6,14 +6,6 @@
 
 - 🔭 I’m currently working on [Cluipy](https://github.com/noface1200/Command-Line-UI-Tool)
 
-- 🌱 I’m currently learning **Networking, C**
-
-- 👯 I’m looking to collaborate on [Optimiser](https://github.com/noface1200/Windows-11-Optimizer)
-
-- 👨‍💻 All of my projects are available at [https://github.com/noface1200?tab=repositories](https://github.com/noface1200?tab=repositories)
-
-- 💬 Ask me about **Modding, DLL-Injection, Cryptography, Python**
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=noface1200&theme=matrix" alt="noface1200" />
